@@ -9,7 +9,7 @@
 
 Существует много систем контроля версий, в том числе и для программистов, из них наиболее популярная - **Git**.
 
-<img src="./assets/git-logo.png" alt="git-logo.png" width="300"/>
+<img src="./assets/git-logo.png" width="200"/>
 
 ---
 
