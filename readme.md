@@ -11,7 +11,7 @@
 ### Содержание
 1. [Приветствие](./Hello.md)
 2. [Начало работы](./beggin.md)
-3. [git add](./add.md)
+3. [Системы контроля версий](.control_versions.md)
 4. 
 5. 
 6. 
@@ -20,7 +20,11 @@
 9. 
 10. 
 
+---
 
+# Основные команды:
+
+[git add](./command_add.md); [git config](./command_config.md); 
 
 ---
 
