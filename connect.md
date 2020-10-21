@@ -15,5 +15,5 @@
 
  **Поздравляю, всё связано!!!**
 
- [<Назад](./control_repository.md) | [Далее>](./connect.md) | [<К содержанию>](./readme.md)
+ [<Назад](./repository.md) | [Далее>](./branch.md) | [<К содержанию>](./readme.md)
 
